@@ -1,4 +1,4 @@
-# Zuri Internship
+# HNGi8 x 14G Internship
 
 # <div align="center">Task 2</div>
 
