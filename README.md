@@ -37,11 +37,11 @@ This is an about me app which takes input from users and displays it on screen b
 ### Testing
 I've provided the built apk for testing it just download and install it in your smartphone.
 
- * [criminal Alert apk](https://github.com/bingJunior/CodeWarriors/tree/master/apk)
+ * [Task 2 apk](https://github.com/bingJunior/Zuri_Internship/apk/)
 
 ### Video
 
- * [criminal Alert apk](https://github.com/bingJunior/CodeWarriors/tree/master/apk)
+ * [Video](https://github.com/bingJunior/Zuri_Internship/video/video_2021-08-18_20-37-00.mp4)
 
 ### Links
 
