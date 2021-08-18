@@ -48,12 +48,8 @@ I've provided the built apk for testing it just download and install it in your 
  * https://internship.zuri.team
  * https://www.i4good.com/
  
-<div align="left">
-<img src="https://i.imgur.com/4ctJnXv.png" align="centre"/>
-</div> 
 <div align="center">
-<img src="https://i.imgur.com/FnwGyOA.png" align="centre"/>
-</div>
-<div align="right">
-<img src="https://i.imgur.com/0XAciaj.jpg" align="centre"/>
-</div>
+ <img src="https://i.imgur.com/0XAciaj.jpg" align="left"/>
+ <img src="https://i.imgur.com/FnwGyOA.png" align="centre"/>
+<img src="https://i.imgur.com/4ctJnXv.png" align="right"/>
+</div> 
