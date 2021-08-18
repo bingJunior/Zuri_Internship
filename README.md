@@ -49,7 +49,7 @@ I've provided the built apk for testing it just download and install it in your 
  * https://www.i4good.com/
  
 <div align="center">
- <img src="https://i.imgur.com/0XAciaj.jpg" align="left"/>
- <img src="https://i.imgur.com/FnwGyOA.png" align="centre"/>
+ <img src="https://i.imgur.com/0XAciajb.jpg" align="left"/>
+ <img src="https://i.imgur.com/4ctJnXvb.png" align="centre"/>
 <img src="https://i.imgur.com/4ctJnXv.png" align="right"/>
 </div> 
