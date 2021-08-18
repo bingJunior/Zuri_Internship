@@ -12,7 +12,7 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Testing](#testing)
-  * [Video](#Video of Working App)  
+  * [Video of Working App](#Video of Working App)  
 
 ## About the project
 This is an about me app which takes input from users and displays it on screen built as Task 2 for [Zuri Internship](https://training.zuri.team)
