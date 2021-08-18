@@ -1,11 +1,7 @@
-# Zuri_Internship
-An about me which takes input from user to display on screen.
-# <div align="center">CriminalAlert</div>
+# Zuri Internship
 
-![Java](https://img.shields.io/badge/language-Java-blue?style=for-the-badge)
-![Android](https://img.shields.io/badge/SDK-Android-green?style=for-the-badge)
-![Version](https://img.shields.io/badge/SDK--Version-4.1-red?style=for-the-badge)
-![Database](https://img.shields.io/badge/database-Firestore-blue?style=for-the-badge)
+# <div align="center">Task 2</div>
+
 
 
 
@@ -19,7 +15,7 @@ An about me which takes input from user to display on screen.
   
 
 ## About the project
-This is an about me app which takes input from users and displays it on screen built as Task 2 for *[Zuri Internship](https://training.zuri.team)
+This is an about me app which takes input from users and displays it on screen built as Task 2 for [Zuri Internship](https://training.zuri.team)
  
  ## Built with
  
