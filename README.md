@@ -41,7 +41,7 @@ I've provided the built apk for testing it just download and install it in your 
 
 ### Video
 
- * [Video](https://github.com/bingJunior/Zuri_Internship/tree/master/video)
+ * [Video](https://github.com/bingJunior/Zuri_Internship/tree/master/Video)
 
 ### Links
 
