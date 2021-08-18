@@ -37,11 +37,11 @@ This is an about me app which takes input from users and displays it on screen b
 ### Testing
 I've provided the built apk for testing it just download and install it in your smartphone.
 
- * [Task 2 apk](https://github.com/bingJunior/Zuri_Internship/apk/)
+ * [Task 2 apk](https://github.com/bingJunior/Zuri_Internship/apk)
 
 ### Video
 
- * [Video](https://github.com/bingJunior/Zuri_Internship/video/video_2021-08-18_20-37-00.mp4)
+ * [Video](https://github.com/bingJunior/Zuri_Internship/video)
 
 ### Links
 
