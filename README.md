@@ -14,6 +14,8 @@
   * [Testing](#testing)
   * [Video](#video)  
   * [Links](#links)
+
+
 ## About the project
 This is an about me app which takes input from users and displays it on screen built as Task 2 for [Zuri Internship](https://training.zuri.team)
  
@@ -43,6 +45,6 @@ I've provided the built apk for testing it just download and install it in your 
 
 ### Links
 
- *https://internship.zuri.team
- *https://training.zuri.team
+ *(https://internship.zuri.team)
+ *(https://training.zuri.team)
  
