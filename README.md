@@ -19,7 +19,7 @@ An about me which takes input from user to display on screen.
   
 
 ## About the project
-This is an about me app which takes input from users and displays it on screen built as Task 2 for Zuri Internship(https://training.zuri.team)
+This is an about me app which takes input from users and displays it on screen built as Task 2 for *[Zuri Internship](https://training.zuri.team)
  
  ## Built with
  
