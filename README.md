@@ -17,7 +17,7 @@
 
 
 ## About the project
-This is an about me app which takes input from users and displays it on screen built as Task 2 for [Zuri Internship](https://training.zuri.team)
+This is an about me app which takes input from users and displays it on screen built as Task 2 for HNGi8 x 14G Internship
  
  ## Built with
  
@@ -46,5 +46,14 @@ I've provided the built apk for testing it just download and install it in your 
 ### Links
 
  * https://internship.zuri.team
- * https://training.zuri.team
+ * https://www.i4good.com/
  
+<div align="left">
+<img src="https://imgur.com/FnwGyOA" align="centre"/>
+</div> 
+<div align="center">
+<img src="https://imgur.com/0XAciaj" align="centre"/>
+</div>
+<div align="right">
+<img src="https://imgur.com/4ctJnXv" align="centre"/>
+</div>
