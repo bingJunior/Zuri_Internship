@@ -1,4 +1,4 @@
-# HNGi8 x 14G Internship
+# <div align="center">HNGi8 x 14G Internship</div>
 
 # <div align="center">Task 2</div>
 
